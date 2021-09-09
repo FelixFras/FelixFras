@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FelixFras
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java
+- 📫 How to reach me Discord: Felix.#5727
